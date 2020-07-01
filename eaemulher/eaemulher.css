@@ -1,0 +1,20 @@
+:root{
+    --title-font: 'Lobster', cursive;
+}
+main {
+    background-color: #000 !important;
+    padding: 100px ;
+    color: white;
+    font-family: var(--title-font);
+}
+footer {
+    padding-top: 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+center{
+    padding: 10px;
+}
+#page-home .main{
+    background: url('https://image.flaticon.com/icons/svg/3003/3003141.svg') no-repeat;
+}
